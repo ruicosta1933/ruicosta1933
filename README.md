@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/MongoDB-1e8200?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-911800?style=for-the-badge&logo=Laravel&logoColor=white"/>
    <img src="https://img.shields.io/badge/Java-d98832?style=for-the-badge&logo=java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JavaScript-d8e300?style=for-the-badge&logo=JavaScript&logoColor=v"/>
+   <img src="https://img.shields.io/badge/JavaScript-d8e300?style=for-the-badge&logo=JavaScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/WordPress-1745ff?style=for-the-badge&logo=WordPress&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-5e7eff?style=for-the-badge&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Json-20232A?style=for-the-badge&logo=json&logoColor=61DAFB"/>
