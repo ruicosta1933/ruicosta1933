@@ -16,6 +16,11 @@
 - 📫 How to reach me: ruicosta607@gmail.com.
 - ⚡ The best time to become better is today, don't outsource your decisions!
 
+ <p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+ 
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruicosta1933&layout=compact&border=none&theme=dracula)](https://github.com/ruicosta1933/github-readme-stats) ![Rui's github stats](https://github-readme-stats.vercel.app/api?username=ruicosta1933&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border=none&hide=prs)
