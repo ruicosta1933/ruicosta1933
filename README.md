@@ -35,8 +35,11 @@
 </p>
 
  
+ 
 <p align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruicosta1933&layout=compact&border=none&theme=dracula)](https://github.com/ruicosta1933/github-readme-stats) ![Rui's github stats](https://github-readme-stats.vercel.app/api?username=ruicosta1933&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border=none&hide=prs)
+ 
 </p>
  
 <h2 align="center">Let's Code! :man_technologist: </h2>
