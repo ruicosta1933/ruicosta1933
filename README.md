@@ -18,20 +18,22 @@
 
  <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-20232A?style=for-the-badge&logo=swift&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PHp-5c329c?style=for-the-badge&logo=php&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-ff0008?style=for-the-badge&logo=angular&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Ionic-0099ff?style=for-the-badge&logo=Ionic&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-1e8200?style=for-the-badge&logo=MongoDB&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Laravel-911800?style=for-the-badge&logo=Laravel&logoColor=61DAFB"/>
-   <img src="https://img.shields.io/badge/Java-d98832?style=for-the-badge&logo=java&logoColor=61DAFB"/>
-   <img src="https://img.shields.io/badge/JavaScript-d8e300?style=for-the-badge&logo=JavaScript&logoColor=61DAFB"/>
-   <img src="https://img.shields.io/badge/WordPress-1745ff?style=for-the-badge&logo=WordPress&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-5e7eff?style=for-the-badge&logo=TypeScript&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PHp-5c329c?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-ff0008?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ionic-0099ff?style=for-the-badge&logo=Ionic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-1e8200?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-911800?style=for-the-badge&logo=Laravel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Java-d98832?style=for-the-badge&logo=java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-d8e300?style=for-the-badge&logo=JavaScript&logoColor=v"/>
+   <img src="https://img.shields.io/badge/WordPress-1745ff?style=for-the-badge&logo=WordPress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-5e7eff?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  
     <img src="https://img.shields.io/badge/Json-20232A?style=for-the-badge&logo=json&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/phpmyadmin-f7b119?style=for-the-badge&logo=phpmyadmin&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/visualstudio-187aab?style=for-the-badge&logo=visualstudio&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/postman-d17600?style=for-the-badge&logo=postman&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/yarn-00a0d1?style=for-the-badge&logo=yarn&logoColor=61DAFB"/>
+  
+  <img src="https://img.shields.io/badge/phpmyadmin-f7b119?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visualstudio-187aab?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postman-d17600?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/yarn-00a0d1?style=for-the-badge&logo=yarn&logoColor=white"/>
   
   
 
