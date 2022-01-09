@@ -18,7 +18,7 @@
 
  <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-20232A?style=for-the-badge&logo=swift&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PHp-20232A?style=for-the-badge&logo=php&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PHp-20232A?style=for-the-badge&logo=php&logoColor=5400d1"/>
   <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=Ionic&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB"/>
