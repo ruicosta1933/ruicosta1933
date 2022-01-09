@@ -27,9 +27,7 @@
    <img src="https://img.shields.io/badge/JavaScript-d8e300?style=for-the-badge&logo=JavaScript&logoColor=v"/>
    <img src="https://img.shields.io/badge/WordPress-1745ff?style=for-the-badge&logo=WordPress&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-5e7eff?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  
     <img src="https://img.shields.io/badge/Json-20232A?style=for-the-badge&logo=json&logoColor=61DAFB"/>
-  
   <img src="https://img.shields.io/badge/phpmyadmin-f7b119?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
   <img src="https://img.shields.io/badge/visualstudio-187aab?style=for-the-badge&logo=visualstudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/postman-d17600?style=for-the-badge&logo=postman&logoColor=white"/>
